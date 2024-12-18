@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "mit-24-3-study-github-actions",
+    "github-actions": "mit-24-3-study-github-actions"
+  },
+  "targets": {},
+  "etags": {}
+}
